@@ -1,0 +1,163 @@
+.product-list-flex{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.products-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(140, 138, 138);
+}
+
+.sort-btn{
+    background-color:#165315;
+    height: 36px;
+    width: 140px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    border-width: 0px;
+    margin-left: 20px;
+    text-align: left;
+    
+}
+
+.add-cart-btn-bg{
+    /* background-color: #165315; */
+   
+    width: 114px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 6px;
+}
+
+.add-cart-btn{
+    background-color: #165315;
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    border-width: 0px;
+    height: 34px;
+    text-align:center ;
+    color: white;
+    /* border-radius: 6px; */
+    /* padding: 10px; */
+    
+}
+
+.add-cart-btn1{
+    background-color: #165315;
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    border-width: 0px;
+    height: 34px;
+    text-align:center ;
+   border-top-left-radius: 6px;
+   border-bottom-left-radius: 6px;
+   color: white;
+    
+}
+
+.add-cart-btn2{
+    background-color: #165315;
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    border-width: 0px;
+    height: 34px;
+    text-align:center ;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    color: white;
+   
+    
+}
+
+.buy-btn{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #165315;
+    height: 34px;
+    width: 114px;
+    border-radius: 6px;
+}
+
+.product-img{
+    height: 300px;
+    width: 280px;
+}
+
+.view-btn{
+    /* border-width: 1px; */
+    background-color: #165315;
+    width: 280px;
+    border-width: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    height: 34px;
+}
+
+.product-name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.productt-details{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(119, 118, 118);
+}
+
+.rating{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.price{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.price1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: line-through;
+    color: rgb(119, 118, 118) ;
+}
+
+.btn-flex{
+    display: flex;
+    width: 280px;
+    justify-content: space-between;
+    /* padding: 10px; */
+}
+
+.img-border{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(55, 55, 55);
+    /* border-width: 28px; */
+    width: 280px;
+    margin-top: 50px;
+}
+
+.all-product-flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

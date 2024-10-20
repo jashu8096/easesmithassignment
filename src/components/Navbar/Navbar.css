@@ -1,0 +1,185 @@
+.free-shipping-div{
+    background-color: #165315;
+    height: 34px;
+
+    
+}
+
+.free-ship-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: white;
+    padding-right: 100px;
+
+}
+
+.free-ship-text1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: white;
+    padding-right: 400px;
+
+}
+
+
+.free-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    padding-top: 9px;
+
+    align-items: center;
+    
+}
+
+.brand-name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    color: #165315;
+}
+
+
+.nav-name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 30px;
+    
+    
+}
+.nav-items-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.icon{
+    color: black;
+    height: 20px;
+    width: 20px;
+    padding-right: 20px;
+}
+.icons-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    /* text-align: center; */
+}
+.span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 8px;
+    font-weight: 500;
+
+}
+
+.cart-count{
+    background-color:  #F3A939;
+    font-size: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 3px;
+    
+    border-radius: 20px;
+   
+
+
+   
+}
+
+.search-input{
+    border-width: 0px;
+    font-size: 14;
+    height: 30px;
+    width: 280px;
+}
+
+.search-icons{
+    height: 30px;
+    width: 30px;
+}
+
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    width: 360px;
+    height: 1px;
+    background-color: rgb(97, 96, 96);
+}
+.search-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.btn1{
+    background-color:#165315;
+    height: 40px;
+    width: 100px;
+    color: white;
+    margin-right: 20px;
+    font-size: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+
+  
+
+}
+
+.btn{
+  
+    height: 40px;
+    width: 100px;
+    font-size: 16px;
+    color: rgb(9, 9, 9);
+
+    
+  
+
+}
+
+.btn-div{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.para{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.nursery-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nursery-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.nursery-para{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color: rgb(66, 65, 65);
+}
+
+.nursery-flex{
+    display:flex;
+    flex-direction: row;
+}
